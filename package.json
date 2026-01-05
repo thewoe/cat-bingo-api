@@ -1,0 +1,24 @@
+{
+  "name": "cat-bingo-api",
+  "version": "1.0.0",
+  "description": "Cat Bingo API",
+  "homepage": "https://github.com/thewoe/cat-bingo-api#readme",
+  "bugs": {
+    "url": "https://github.com/thewoe/cat-bingo-api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thewoe/cat-bingo-api.git"
+  },
+  "license": "ISC",
+  "author": "Tug F. O'Flaherty",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
