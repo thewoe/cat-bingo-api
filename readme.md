@@ -18,6 +18,11 @@ GET {baseurl:port}/call
 GET {baseurl:port}/card
 ```
 
+### Coming Soon
+* Web sockets to facilitate multiplayer interaction (with player room codes)
+* DB for saving/loading existing games (with user accounts)
+* Might generalise to add support for other types of bingo that users can think of (e.g., make your own bingo on your chosen theme)
+
 Acknowledgements:
 * List of cat breeds from **Wikipedia**, images (mostly Wikimedia Commons, but check individual image credits for details)
 * **Marcel George/Laurence King Publishing** for the idea
