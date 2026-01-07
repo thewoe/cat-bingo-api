@@ -3,11 +3,12 @@ const fs = require('fs');
 const path = require('path');
 const express = require('express');
 // const { Server } = require('socket.io');
-// const cors = require('cors');
+const cors = require('cors');
 
 const app = express();
 
 app.use(express.json());
+app.use(cors());
 
 const PORT_DATA = 3000; // Express Server Port
 

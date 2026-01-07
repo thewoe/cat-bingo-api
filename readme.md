@@ -27,4 +27,4 @@ Acknowledgements:
 * List of cat breeds from **Wikipedia**, images (mostly Wikimedia Commons, but check individual image credits for details)
 * **Marcel George/Laurence King Publishing** for the idea
 * **Chris's friends** at the New Year's Eve party I was invited to, for owning a copy of the game
-* **Penny**, for probably being the only person at least showing some interest in wanting to play this at some point haha :)
+* **Penny and Adam**, for probably being the only people at least showing some interest in wanting to play this at some point haha :)

@@ -1,508 +1,615 @@
 [
     {
+        "id": 0,
         "name": "Abyssinian",
-        "image": "https://en.wikipedia.org/wiki/File:Gustav_chocolate.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Gustav_chocolate.jpg",
         "credit": "Karin Langner-Bahmann (Wikimedia Commons)"
     },
     {
+        "id": 1,
         "name": "Aegean",
-        "image": "https://en.wikipedia.org/wiki/File:Aegean_cat.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Aegean_cat.jpg",
         "credit": "Barc0de (Wikimedia Commons)"
     },
     {
+        "id": 2,
         "name": "American Bobtail",
-        "image": "https://en.wikipedia.org/wiki/File:American_bobtail_2.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/American_bobtail_2.jpg",
         "credit": "torbakhopper (Wikimedia Commons)"
     },
     {
+        "id": 3,
         "name": "American Curl",
-        "image": "https://en.wikipedia.org/wiki/File:EC_Recknagel_Annakurnikoova_ACS_gs_24.JPG",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/EC_Recknagel_Annakurnikoova_ACS_gs_24.JPG",
         "credit": "Heikki Siltala (Wikimedia Commons)"
     },
     {
+        "id": 4,
         "name": "American Shorthair",
-        "image": "https://en.wikipedia.org/wiki/File:GC_Yatfung%27s_Brown_Cobra.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/GC_Yatfung%27s_Brown_Cobra.jpg",
         "credit": "Heikki Siltala (Wikimedia Commons)"
     },
     {
+        "id": 5,
         "name": "American Wirehair",
-        "image": "https://en.wikipedia.org/wiki/File:American_Wirehair_-_CFF_cat_show_Heinola_2008-05-04_IMG_8721.JPG",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/American_Wirehair_-_CFF_cat_show_Heinola_2008-05-04_IMG_8721.JPG",
         "credit": "Heikki Siltala (Wikimedia Commons)"
     },
     {
+        "id": 6,
         "name": "Aphrodite Giant",
-        "image": "https://en.wikipedia.org/wiki/File:Aphrodite%27s_Giant.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Aphrodite%27s_Giant.jpg",
         "credit": "Apanag10 (Wikimedia Commons)"
     },
     {
+        "id": 7,
         "name": "Arabian Mau",
-        "image": "https://en.wikipedia.org/wiki/File:Arabian_Mau_Kitten_(cropped).jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Arabian_Mau_Kitten_%28cropped%29.jpg",
         "credit": "SolnishkoA (Wikimedia Commons)"
     },
     {
+        "id": 8,
         "name": "Asian",
-        "image": "https://en.wikipedia.org/wiki/File:BrownVarientAsianCat.JPG",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/BrownVarientAsianCat.JPG",
         "credit": "Scotia (Wikimedia Commons)"
 
     },
     {
+        "id": 9,
         "name": "Asian Semi-Longhair",
-        "image": "https://en.wikipedia.org/wiki/File:Tiffanie_at_cat_show.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Tiffanie_at_cat_show.jpg",
         "credit": "Heikki Siltala (Wikimedia Commons)"
     },
     {
+        "id": 10,
         "name": "Australian Mist",
-        "image": "https://en.wikipedia.org/wiki/File:Australian_Mist.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Australian_Mist.jpg",
         "credit": "Regis2007 (Wikimedia Commons)"
     },
     {
+        "id": 11,
         "name": "Balinese",
-        "image": "https://en.wikipedia.org/wiki/File:Old-Style_Balinese_Cat.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Old-Style_Balinese_Cat.png",
         "credit": "Mary Desmond (Wikimedia Commons)"
     },
     {
+        "id": 12,
         "name": "Bambino",
         "image": "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3NodXR0ZXJzdG9jay01ODAzNjM4NjEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo4Mjh9LCJ0b0Zvcm1hdCI6ImF2aWYifX0=",
         "credit": "Jaroslaw Kurek/Shutterstock"
     },
     {
+        "id": 13,
         "name": "Bengal",
-        "image": "https://en.wikipedia.org/wiki/File:Paintedcats_Red_Star_standing.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Paintedcats_Red_Star_standing.jpg",
         "credit": "Lightburst (Wikimedia Commons)"
     },
     {
+        "id": 14,
         "name": "Birman",
-        "image": "https://en.wikipedia.org/wiki/File:Birman2.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Birman2.jpg",
         "credit": "Berk (Wikimedia Commons)"
     },
     {
+        "id": 15,
         "name": "Bombay",
-        "image": "https://en.wikipedia.org/wiki/File:Bombay_femelle.JPG",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Bombay_femelle.JPG",
         "credit": "Pititebilette (Wikimedia Commons)"
     },
     {
+        "id": 16,
         "name": "Brazilian Shorthair",
-        "image": "https://en.wikipedia.org/wiki/File:Gato_pelo_curto_brasileiro.JPG",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Gato_pelo_curto_brasileiro.JPG",
         "credit": "J.Jazz (Wikimedia Commons)"
     },
     {
+        "id": 17,
         "name": "British Longhair",
-        "image": "https://en.wikipedia.org/wiki/File:British_Longhair_-_Black_Silver_Shaded.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/British_Longhair_-_Black_Silver_Shaded.jpg",
         "credit": "Chatterie des Millenovæ (Wikimedia Commons)"
     },
     {
+        "id": 18,
         "name": "British Shorthair",
-        "image": "https://en.wikipedia.org/wiki/File:British_Shorthair_Assis.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/British_Shorthair_Assis.jpg",
         "credit": "Desaix83 (Wikimedia Commons)"
     },
     {
+        "id": 19,
         "name": "Burmese",
-        "image": "https://en.wikipedia.org/wiki/File:BurMau_Vega_Star,_champagne_burmese_kitten.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/BurMau_Vega_Star%2C_champagne_burmese_kitten.jpg",
         "credit": "Sergey Lubov (Wikimedia Commons)"
     },
     {
+        "id": 20,
         "name": "Burmilla",
-        "image": "https://en.wikipedia.org/wiki/File:Male_Burmilla_cat.jpeg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Male_Burmilla_cat.jpeg",
         "credit": "David Johnson (Wikimedia Commons)"
     },
     {
+        "id": 21,
         "name": "California Spangled",
-        "image": "https://en.wikipedia.org/wiki/File:Star_Spangled_Cat.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Star_Spangled_Cat.jpg",
         "credit": "Flamingice007sg (Wikimedia Commons)"
     },
     {
+        "id": 22,
         "name": "Chantilly-Tiffany",
-        "image": "https://en.wikipedia.org/wiki/File:Tiffany4_(2018;_cropped_2023).jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Tiffany4_%282018%3B_cropped_2023%29.jpg",
         "credit": "Jkasutoro (Wikimedia Commons)"
     },
     {
+        "id": 23,
         "name": "Chartreux",
-        "image": "https://en.wikipedia.org/wiki/File:Abbaye_fev2006_003.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Abbaye_fev2006_003.jpg",
         "credit": "Elise.deguerny~commonswiki (Wikimedia Commons)"
     },
     {
+        "id": 24,
         "name": "Chausie",
-        "image": "https://en.wikipedia.org/wiki/File:Chausiecatexample.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Chausiecatexample.jpg",
         "credit": "Pschemp (Wikimedia Commons)"
     },
     {
+        "id": 25,
         "name": "Colorpoint Shorthair",
-        "image": "https://en.wikipedia.org/wiki/File:Tortie-point.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Tortie-point.jpg",
         "credit": "Foobar (Wikimedia Commons)"
     },
     {
+        "id": 26,
         "name": "Cornish Rex",
-        "image": "https://en.wikipedia.org/wiki/File:Cornish_Rex.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Cornish_Rex.jpg",
         "credit": "Desaix83 (Wikimedia Commons)"
     },
     {
+        "id": 27,
         "name": "Cymric",
-        "image": "https://en.wikipedia.org/wiki/File:Cymric_-_Norwegian_forest_cat_presentation_show_Kotka_2009-02-01_IMG_0687.JPG",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Cymric_-_Norwegian_forest_cat_presentation_show_Kotka_2009-02-01_IMG_0687.JPG",
         "credit": "Heikki Siltala (Wikimedia Commons)"
     },
     {
+        "id": 28,
         "name": "Cyprus",
-        "image": "https://en.wikipedia.org/wiki/File:CyprusShorthair.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/CyprusShorthair.jpg",
         "credit": "Heikki Siltala (Wikimedia Commons)"
     },
     {
+        "id": 29,
         "name": "Devon Rex",
-        "image": "https://en.wikipedia.org/wiki/File:Devon_rex.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Devon_rex.jpg",
         "credit": "Bebopscrx (Wikimedia Commons)"
     },
     {
+        "id": 30,
         "name": "Donskoy",
-        "image": "https://en.wikipedia.org/wiki/File:Donskoy.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Donskoy.jpg",
         "credit": "Desaix83 (Wikimedia Commons)"
     },
     {
+        "id": 31,
         "name": "Dragon Li",
-        "image": "https://en.wikipedia.org/wiki/File:Dragon_Li_Cat_named_Pipi.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Dragon_Li_Cat_named_Pipi.jpg",
         "credit": "Painjet (Wikimedia Commons)"
     },
     {
+        "id": 32,
         "name": "Dwelf",
         "image": "https://spotpet.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fm5ehn3s5t7ec%2Fwp-image-197531%2F5c2a2846dc0e2b1499751eebfa3d3ac7%2FDwelf_Cat.jpg&w=640&q=75",
         "credit": "Spot Pet Insurance"
     },
     {
+        "id": 33,
         "name": "Egyptian Mau",
-        "image": "https://en.wikipedia.org/wiki/File:Mau_Egytien.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Mau_Egytien.jpg",
         "credit": "Desaix83 (Wikimedia Commons)"
     },
     {
+        "id": 34,
         "name": "European Shorthair",
-        "image": "https://en.wikipedia.org/wiki/File:Female_European_shorthair_in_URK_cat_show_Kirkkonummi_2008-03-02.JPG",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Female_European_shorthair_in_URK_cat_show_Kirkkonummi_2008-03-02.JPG",
         "credit": "Heikki Siltala (Wikimedia Commons)"
     },
     {
+        "id": 35,
         "name": "Exotic Shorthair",
-        "image": "https://en.wikipedia.org/wiki/File:Nipsu-Nappulan_Non-Stop_Exotic_shorthair_(cropped).JPG",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Nipsu-Nappulan_Non-Stop_Exotic_shorthair_%28cropped%29.JPG",
         "credit": "Heikki Siltala (Wikimedia Commons)"
     },
     {
+        "id": 36,
         "name": "Foldex",
-        "image": "https://en.wikipedia.org/wiki/File:Cachorro_de_Gato_FoldEx_(%22Belisario_del_Laberinto%22).JPG",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Cachorro_de_Gato_FoldEx_%28%22Belisario_del_Laberinto%22%29.JPG",
         "credit": "Heikki Siltala (Wikimedia Commons)"
     },
     {
+        "id": 37,
         "name": "German Rex",
-        "image": "https://en.wikipedia.org/wiki/File:German_Rex.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/German_Rex.jpg",
         "credit": "Desaix83 (Wikimedia Commons)"
     },
     {
+        "id": 38,
         "name": "Havana Brown",
-        "image": "https://en.wikipedia.org/wiki/File:Havana_Brown.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Havana_Brown.jpg",
         "credit": "Desaix83 (Wikimedia Commons)"
     },
     {
+        "id": 39,
         "name": "Highlander",
-        "image": "https://en.wikipedia.org/wiki/File:Highlander-7.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Highlander-7.jpg",
         "credit": "DigitalDirt (Wikimedia Commons)"
     },
     {
+        "id": 40,
         "name": "Himalayan",
-        "image": "https://en.wikipedia.org/wiki/File:Sonny_Bunny.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Sonny_Bunny.jpg",
         "credit": "Cindy See (Wikimedia Commons)"
     },
     {
+        "id": 41,
         "name": "Jianzhou cat",
-        "image": "https://en.wikipedia.org/wiki/File:Jianzhou_cat.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Jianzhou_cat.jpg",
         "credit": "Tangzhao123 (Wikimedia Commons)"
     },
     {
+        "id": 42,
         "name": "Japanese Bobtail",
-        "image": "https://en.wikipedia.org/wiki/File:JapaneseBobtailBlueEyedMi-ke.JPG",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/JapaneseBobtailBlueEyedMi-ke.JPG",
         "credit": "ようてい (Wikimedia Commons)"
     },
     {
+        "id": 43,
         "name": "Javanese",
-        "image": "https://en.wikipedia.org/wiki/File:Javanese_cat.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Javanese_cat.jpg",
         "credit": "Starjely (Wikimedia Commons)"
     },
     {
+        "id": 44,
         "name": "Kanaani",
-        "image": "https://en.wikipedia.org/wiki/File:Kanaani_like_Cat_Tufted_Ear-My_Cat_Cirmos.JPG",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Kanaani_like_Cat_Tufted_Ear-My_Cat_Cirmos.JPG",
         "credit": "Perfectyello (Wikimedia Commons)"
     },
     {
+        "id": 45,
         "name": "Karelian Bobtail",
-        "image": "https://static.wikia.nocookie.net/cats/images/b/b5/Karelian_Bobtail.webp/revision/latest?cb=20230429150447&path-prefix=en",
-        "credit": "KoolCyborrg (Cats Fandom)"
+        "image": "https://cdn-fastly.petguide.com/media/2022/02/16/8225843/karelian-bobtail.jpg?size=720x845&nocrop=1",
+        "credit": "Pet Guide"
     },
     {
+        "id": 46,
         "name": "Khao Manee",
-        "image": "https://en.wikipedia.org/wiki/File:Khao_Manee_%22ChaWee%22.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Khao_Manee_%22ChaWee%22.jpg",
         "credit": "Janet Poulsen (Wikimedia Commons)"
     },
     {
+        "id": 47,
         "name": "Kinkalow",
-        "image": "https://en.wikipedia.org/wiki/File:Kinkalow1.JPG",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Kinkalow1.JPG",
         "credit": "Kirimiti (Wikimedia Commons)"
     },
     {
+        "id": 48,
         "name": "Korat",
-        "image": "https://en.wikipedia.org/wiki/File:Korat_Fond_Blanc.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Korat_Fond_Blanc.jpg",
         "credit": "Desaix83 (Wikimedia Commons)"
     },
     {
+        "id": 49,
         "name": "Korean Bobtail",
-        "image": "https://en.wikipedia.org/wiki/File:Japanese_Bobtail_walking.JPG",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Japanese_Bobtail_walking.JPG",
         "credit": "Chris 73 (Wikimedia Commons)"
     },
     {
+        "id": 50,
         "name": "Korn Ja",
         "image": "https://www.catster.com/wp-content/uploads/2023/11/Korn-ja-cat-blueplanet97-Shuttershock.jpg.webp",
         "credit": "blueplanet97/Shutterstock"
     },
     {
+        "id": 51,
         "name": "Kurilian Bobtail",
-        "image": "https://en.wikipedia.org/wiki/File:Kurilian_bobtail.JPG",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Kurilian_bobtail.JPG",
         "credit": "Dushka (Wikimedia Commons)"
     },
     {
+        "id": 52,
         "name": "Lambkin",
         "image": "https://www.catster.com/wp-content/uploads/2023/11/shutterstock_2410338173-e1714190016902.jpg.webp",
         "credit": "UW.ART/Shutterstock"
     },
     {
+        "id": 53,
         "name": "LaPerm",
-        "image": "https://en.wikipedia.org/wiki/File:Laperm_LH_blacktabby_white.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Laperm_LH_blacktabby_white.jpg",
         "credit": "Bebopscrx (Wikimedia Commons)"
     },
     {
+        "id": 54,
         "name": "Lykoi",
-        "image": "https://en.wikipedia.org/wiki/File:8-month-old_male_Lykoi.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/8-month-old_male_Lykoi.jpg",
         "credit": "steptacular (Wikimedia Commons)"
     },
     {
+        "id": 55,
         "name": "Maine Coon",
-        "image": "https://en.wikipedia.org/wiki/File:Maine_Coon_female.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Maine_Coon_female.jpg",
         "credit": "Mueller-rech.muenchen (Wikimedia Commons)"
     },
     {
+        "id": 56,
         "name": "Manx",
-        "image": "https://en.wikipedia.org/wiki/File:A_Rumpy_Manx_Cat.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/A_Rumpy_Manx_Cat.jpg",
         "credit": "Michelle Weigold (Wikimedia Commons)"
     },
     {
+        "id": 57,
         "name": "Mekong Bobtail",
-        "image": "https://en.wikipedia.org/wiki/File:Mekong_bobtail_(Thai_bobtail)._Chocolate_point_colour._(cropped).jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Mekong_bobtail_%28Thai_bobtail%29._Chocolate_point_colour._%28cropped%29.jpg",
         "credit": "Alex Opryatin (Wikimedia Commons)"
     },
     {
+        "id": 58,
         "name": "Minskin",
-        "image": "https://en.wikipedia.org/wiki/File:Minskin_Kitten_Female_blue_tabby_color-pattern.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Minskin_Kitten_Female_blue_tabby_color-pattern.jpg",
         "credit": "Paulmcsorley (Wikimedia Commons)"
     },
     {
+        "id": 59,
         "name": "Minuet",
-        "image": "https://en.wikipedia.org/wiki/File:Minuet_Cat_(cropped).png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Minuet_Cat_%28cropped%29.png",
         "credit": "Parkerwh (Wikimedia Commons)"
     },
     {
+        "id": 60,
         "name": "Munchkin",
-        "image": "https://en.wikipedia.org/wiki/File:Longhairedmunchkin.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Longhairedmunchkin.jpg",
         "credit": "Sg0668commons (Wikimedia Commons)"
     },
     {
+        "id": 61,
         "name": "Nebelung",
-        "image": "https://en.wikipedia.org/wiki/File:Nebelung_Male,_Aleksandr_van_Song_de_Chine.JPG",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Nebelung_Male%2C_Aleksandr_van_Song_de_Chine.JPG",
         "credit": "Nebelung (Wikimedia Commons)"
     },
     {
+        "id": 62,
         "name": "Neva Masquerade",
-        "image": "https://en.wikipedia.org/wiki/File:NevaMasqueradeFiona_(cropped).jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/NevaMasqueradeFiona_%28cropped%29.jpg",
         "credit": "Burgerhus (Wikimedia Commons)"
     },
     {
+        "id": 63,
         "name": "Norwegian Forest cat",
-        "image": "https://en.wikipedia.org/wiki/File:Norskskogkatt_Evita_3.JPG",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Norskskogkatt_Evita_3.JPG",
         "credit": "Liftarn (Wikimedia Commons)"
     },
     {
+        "id": 64,
         "name": "Ocicat",
-        "image": "https://en.wikipedia.org/wiki/File:Ocicat-Charan.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Ocicat-Charan.jpg",
         "credit": "Tom Bjornstad, Norway (Wikimedia Commons)"
     },
     {
+        "id": 65,
         "name": "Ojos Azules",
-        "image": "https://en.wikipedia.org/wiki/File:Ojos_Azules_from_the_USA.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Ojos_Azules_from_the_USA.jpg",
         "credit": "cats.fandom.com (Wikimedia Commons)"
     },
     {
+        "id": 66,
         "name": "Oriental Bicolor",
-        "image": "https://en.wikipedia.org/wiki/File:Oriental_shorthair_20070130_caroline.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Oriental_shorthair_20070130_caroline.jpg",
         "credit": "Playtime (Wikimedia Commons)"
     },
     {
+        "id": 67,
         "name": "Oriental Longhair",
-        "image": "https://en.wikipedia.org/wiki/File:Mandarin.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Mandarin.jpg",
         "credit": "Desaix83 (Wikimedia Commons)"
     },
     {
+        "id": 68,
         "name": "Oriental Shorthair",
-        "image": "https://en.wikipedia.org/wiki/File:Oriental_Fond_Blanc.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Oriental_Fond_Blanc.jpg",
         "credit": "Desaix83 (Wikimedia Commons)"
     },
     {
+        "id": 69,
         "name": "Persian (modern)",
-        "image": "https://en.wikipedia.org/wiki/File:Persialainen.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Persialainen.jpg",
         "credit": "Lajoma (Wikimedia Commons)"
     },
     {
+        "id": 70,
         "name": "Persian (traditional)",
-        "image": "https://en.wikipedia.org/wiki/File:Persian_silver_dollface.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Persian_silver_dollface.jpg",
         "credit": "Bambooo (Wikimedia Commons)"
     },
     {
+        "id": 71,
         "name": "Peterbald",
-        "image": "https://en.wikipedia.org/wiki/File:Tamila_the_lilac_tabby_Peterbald_cat.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Tamila_the_lilac_tabby_Peterbald_cat.jpg",
         "credit": "Peterbald (Wikimedia Commons)"
     },
     {
+        "id": 72,
         "name": "Pixie-bob",
-        "image": "https://en.wikipedia.org/wiki/File:Jarnac_Bepacific_feb07.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Jarnac_Bepacific_feb07.jpg",
         "credit": "Nathalie Bent (Wikimedia Commons)"
     },
     {
+        "id": 73,
         "name": "Ragamuffin",
-        "image": "https://en.wikipedia.org/wiki/File:20050922AmarilloRes.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/20050922AmarilloRes.jpg",
         "credit": "Iris Preyler-Hamertinger (Wikimedia Commons)"
     },
     {
+        "id": 74,
         "name": "Ragdoll",
-        "image": "https://en.wikipedia.org/wiki/File:20050922AmarilloRes.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Ragdoll.jpg",
         "credit": "Desaix83 (Wikimedia Commons)"
     },
     {
+        "id": 75,
         "name": "Raas",
-        "image": "https://en.wikipedia.org/wiki/File:Kucing_Busok_Jantan.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Kucing_Busok_Jantan.jpg",
         "credit": "Ivan Gunawan Bandhowo (Wikimedia Commons)"
     },
     {
+        "id": 76,
         "name": "Russian Blue",
-        "image": "https://en.wikipedia.org/wiki/File:Russian_Blue_001.gif",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Russian_Blue_001.gif",
         "credit": "ruskis (Wikimedia Commons)"
     },
     {
+        "id": 77,
         "name": "Russian White",
-        "image": "https://en.wikipedia.org/wiki/File:Russian_Black_and_Russian_White.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Russian_Black_and_Russian_White.png",
         "credit": "LaesaMajestas (Wikimedia Commons)"
     },
     {
+        "id": 78,
         "name": "Sam Sawet",
-        "image": "https://en.wikipedia.org/wiki/File:Тайский_кот_Луламей_Тайская_Легенда,_Чемпион_мира_по_системе_WCF,_окрас_блю_поинт_01_(cropped).jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Тайский_кот_Луламей_Тайская_Легенда%2C_Чемпион_мира_по_системе_WCF%2C_окрас_блю_поинт_01_%28cropped%29.jpg",
         "credit": "Talar (Wikimedia Commons)"
     },
     {
+        "id": 79,
         "name": "Savannah",
-        "image": "https://en.wikipedia.org/wiki/File:Savannah_Cat_portrait.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Savannah_Cat_portrait.jpg",
         "credit": "Jason Douglas (Wikimedia Commons)"
     },
     {
+        "id": 80,
         "name": "Scottish Fold",
-        "image": "https://en.wikipedia.org/wiki/File:Scottish_Fond_Blanc.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Scottish_Fond_Blanc.jpg",
         "credit": "Desaix83 (Wikimedia Commons)"
     },
     {
+        "id": 81,
         "name": "Selkirk Rex",
-        "image": "https://en.wikipedia.org/wiki/File:Selkirk_Longhair.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Selkirk_Longhair.jpg",
         "credit": "Desaix83 (Wikimedia Commons)"
     },
     {
+        "id": 82,
         "name": "Serengeti",
-        "image": "https://en.wikipedia.org/wiki/File:Serengetimalecat.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Serengetimalecat.jpg",
         "credit": "Shandris (Wikimedia Commons)"
     },
     {
+        "id": 83,
         "name": "Siamese",
-        "image": "https://en.wikipedia.org/wiki/File:Siamese_cat_Vaillante.JPG",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Siamese_cat_Vaillante.JPG",
         "credit": "Meekahoo (Wikimedia Commons)"
     },
     {
+        "id": 84,
         "name": "Siberian",
-        "image": "https://en.wikipedia.org/wiki/File:Minniecat.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Minniecat.png",
         "credit": "Rocktendo (Wikimedia Commons)"
     },
     {
+        "id": 85,
         "name": "Singapura",
-        "image": "https://en.wikipedia.org/wiki/File:Singapura.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Singapura.jpg",
         "credit": "Desaix83 (Wikimedia Commons)"
     },
     {
+        "id": 86,
         "name": "Snowshoe",
-        "image": "https://en.wikipedia.org/wiki/File:Chizhik_Cat_(cropped).jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Chizhik_Cat_%28cropped%29.jpg",
         "credit": "SnowshoeCatRu (Wikimedia Commons)"
     },
     {
+        "id": 87,
         "name": "Sokoke",
-        "image": "https://en.wikipedia.org/wiki/File:Sokoke.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Sokoke.jpg",
         "credit": "Desaix83 (Wikimedia Commons)"
     },
     {
+        "id": 88,
         "name": "Somali",
-        "image": "https://en.wikipedia.org/wiki/File:Сомалийская_кошка.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Сомалийская_кошка.jpg",
         "credit": "Матвеева Ирина Владимировна (Wikimedia Commons)"
     },
     {
+        "id": 89,
         "name": "Sphynx",
-        "image": "https://en.wikipedia.org/wiki/File:Cat_Sphynx._img_040.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Cat_Sphynx._img_040.jpg",
         "credit": "Dmitry Makeev (Wikimedia Commons)"
     },
     {
+        "id": 90,
         "name": "Suphalak",
-        "image": "https://en.wikipedia.org/wiki/File:Suphalak_Female_in_Thailand_named_AumDaengManee.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Suphalak_Female_in_Thailand_named_AumDaengManee.jpg",
         "credit": "Maewboran (Wikimedia Commons)"
     },
     {
+        "id": 91,
         "name": "Thai",
-        "image": "https://en.wikipedia.org/wiki/File:Тайский_кот_Луламей_Тайская_Легенда,_Чемпион_мира_по_системе_WCF,_окрас_блю_поинт_01_(cropped).jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Тайский_кот_Луламей_Тайская_Легенда%2C_Чемпион_мира_по_системе_WCF%2C_окрас_блю_поинт_01_%28cropped%29.jpg",
         "credit": "Talar (Wikimedia Commons)"
     },
     {
+        "id": 92,
         "name": "Thai Lilac",
-        "image": "https://en.wikipedia.org/wiki/File:The_only_two_Thai_Lilac_Points_in_the_UK_-_Clairabelle_Pixie_Dust_%26_Clairabelle_Ninja_Rococoa.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/The_only_two_Thai_Lilac_Points_in_the_UK_-_Clairabelle_Pixie_Dust_%26_Clairabelle_Ninja_Rococoa.jpg",
         "credit": "Dreistone (Wikimedia Commons)"
     },
     {
+        "id": 93,
         "name": "Tonkinese",
-        "image": "https://en.wikipedia.org/wiki/File:Tonkinois.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Tonkinois.jpg",
         "credit": "Desaix83 (Wikimedia Commons)"
     },
     {
+        "id": 94,
         "name": "Toybob",
-        "image": "https://zoobonus.ua/storage/breeds/images/big/WUnXCBP9Jhz0dSQehcugN9lvIe1iJo6ZliMh1Boo.jpg",
-        "credit": "ZooBonus"
+        "image": "https://cfa.org/wp-content/uploads/2024/03/larry_johnson_1.jpg",
+        "credit": "Larry Johnson Photography"
     },
     {
+        "id": 95,
         "name": "Toyger",
-        "image": "https://en.wikipedia.org/wiki/File:Toyger_-_Cornish_Rex_presentation_show_Riihimäki_2008-11-16_IMG_0101.JPG",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Toyger_-_Cornish_Rex_presentation_show_Riihimäki_2008-11-16_IMG_0101.JPG",
         "credit": "Heikki Siltala (Wikimedia Commons)"
     },
     {
+        "id": 96,
         "name": "Turkish Angora",
-        "image": "https://en.wikipedia.org/wiki/File:Fantine_de_l%27Empire_Ottoman.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Fantine_de_l%27Empire_Ottoman.jpg",
         "credit": "Empire.ottoman (Wikimedia Commons)"
     },
     {
+        "id": 97,
         "name": "Turkish Van",
-        "image": "https://en.wikipedia.org/wiki/File:Turkish_Van_Example2.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Turkish_Van_Example2.jpg",
         "credit": "HardDisk (Wikimedia Commons)"
     },
     {
+        "id": 98,
         "name": "Turkish Vankedisi",
-        "image": "https://en.wikipedia.org/wiki/File:Van_Cat_2_2015.JPG",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Van_Cat_2_2015.JPG",
         "credit": "Ex13 (Wikimedia Commons)"
     },
     {
+        "id": 99,
         "name": "Ukrainian Levkoy",
-        "image": "https://en.wikipedia.org/wiki/File:Ukrainian_Levkoy_cat.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Ukrainian_Levkoy_cat.jpg",
         "credit": "Alena Ivanchuk (Wikimedia Commons)"
     },
     {
+        "id": 100,
         "name": "York Chocolate",
-        "image": "https://en.wikipedia.org/wiki/File:York_Chocolate.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/York_Chocolate.jpg",
         "credit": "Nickstein00 (Wikimedia Commons)"
+    },
+    {
+        "id": 101,
+        "name": "White Kitty",
+        "image": "https://www.metacritic.com/a/img/resize/e6e8df3c42d5a138459f3b4c8b350a323a984f1b/catalog/provider/2/13/2-4c044148a5aa2f2c3b7db0d3ff78beb1.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "credit": "Metacritic/Cartoon Network"
     }
 ]
